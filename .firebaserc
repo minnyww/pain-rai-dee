@@ -1,0 +1,12 @@
+{
+  "projects": {
+    "default": "chayen-2"
+  },
+  "targets": {
+    "chayen-2": {
+      "hosting": {
+        "paint-rai-dee": ["paint-rai-dee"]
+      }
+    }
+  }
+}
